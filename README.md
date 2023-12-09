@@ -26,7 +26,7 @@ Thank you!
 감사합니다!
 
 
-こんにちは！キムと申します。私は企業のエンジニアです。以下のような多様なプログラミング言語と技術に取り組んでいます：
+こんにちは！キムと申します。私は社内エンジニアです。以下のような多様なプログラミング言語と技術に取り組んでいます：
 
 プログラミング言語: C＃、JavaScript、TypeScript、PHP、SQL、HTML、CSS、SCSS、Shell Script、Java
 フレームワーク: Laravel、Vue.js（Vue2、Vue3）、React、React Native、Next.js、Express、Node.js、.NET Core、Spring
